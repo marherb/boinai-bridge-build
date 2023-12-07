@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.42f219b5.css",
+    "main.js": "./static/js/main.63919999.js",
+    "static/js/199.4eb739bf.chunk.js": "./static/js/199.4eb739bf.chunk.js",
+    "static/js/27.a7495170.chunk.js": "./static/js/27.a7495170.chunk.js",
+    "static/js/100.9421d597.chunk.js": "./static/js/100.9421d597.chunk.js",
+    "static/media/home-background.png": "./static/media/home-background.c4ef25fc5cdbe9e3deaf.png",
+    "static/media/Poppins-Light.ttf": "./static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "./static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "./static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-SemiBold.ttf": "./static/media/Poppins-SemiBold.ac8d04b620e54be9b0f0.ttf",
+    "static/media/Poppins-Bold.ttf": "./static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/logo-white.png": "./static/media/logo-white.3d1c85d24d95dd29406b.png",
+    "static/media/metamask.svg": "./static/media/metamask.be333bec1169e49f648d9b26d4a885c9.svg",
+    "static/media/logo-mini.svg": "./static/media/logo-mini.f298ca6df34c1fcbaff31714db6200d2.svg",
+    "static/media/wallet.svg": "./static/media/wallet.f07c5cae00d921f035da87be64450800.svg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.42f219b5.css",
+    "static/js/main.63919999.js"
+  ]
+}
